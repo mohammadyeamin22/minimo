@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: 'Poppins', sans-serif;
+}
+.load{
+  display: flex ;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  background-color: white;
+}
+.blur{
+  color: #B4AD9E;
+}
