@@ -12,5 +12,14 @@
   background-color: white;
 }
 .blur{
-  color: #B4AD9E;
+  color: #626262;
 }
+.footer{
+  background-color:#F0F0F0;
+  height: 100px;
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+  
+}
+
